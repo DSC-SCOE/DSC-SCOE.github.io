@@ -1,1 +1,2 @@
-# DSC-SCOE.github.io
+### Official Website of DSC SCOE
+# Feel Free to contribute 
